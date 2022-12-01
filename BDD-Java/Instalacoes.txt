@@ -1,0 +1,8 @@
+1 Baixe o Java 8 JDK: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+    1.1 O Java deve estar configurado nas "Variaveis de Ambiente" (verifique nas instalacoes da "Aula-Mobile-Configuracoes" do Resumo EBAC)
+2 Baixe o Eclipse Spring Tool Suite: https://spring.io/tools
+    2.1 Obs: O Eclipse descompacta uma pasta (não instala no sistema)
+    2.2 Descompacte a pasta do Eclipse, copie e cole o "Arquivos de Programas" 
+3 Maven (Opcional): https://maven.apache.org/download.cgi
+    3.1 Descompacte a pasta do Maven, copie e cole nos "Arquivos de Programas"
+    3.2 O Maven deve estar configurado no "Path" das "Variaveis de Ambiente" ---> copie o caminho da pasta bin do Maven e adiciono no "Path"
